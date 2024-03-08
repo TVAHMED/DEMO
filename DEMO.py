@@ -1,4 +1,4 @@
-  # Open Source By Mr Mafia
+ # Open Source By Mr Mafia
 # Scammer Gandu Ki Script Free Enjoy Kro
 
 #_________[ IMPORTING MODULES ]______>>
