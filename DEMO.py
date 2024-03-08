@@ -32,8 +32,8 @@ def logo():
     print(50*'-')
     print(f" {white}{green}[~]{white} Owner     : AHMED SHAR (ðŸ˜Ž")
     print(f" {white}{green}[~]{white} Facebook  : prince king hu yawr")
-    print(f" {white}{green}[~]{white} YouTube   : nhi pta (🕶️)
-    print(f" {white}{green}[~]{white} Tool      : FILE + RANDOM CLONE")
+    print(f" {white}{green}[~]{white} friend    : SOHAIL GAFOOR
+    print(f" {white}{green}[~]{white} Tool      :FILE + RANDOM CLONE")
     print(f" {white}{green}[~]{white} Github    : https://github.com/TVAHMED")
     print(f" {white}{green}[~]{white} Whatsapp  : 03277025198 ONLY for help ")
     print(f" {white}{green}[~]{white} Status    : {green}Free ")
